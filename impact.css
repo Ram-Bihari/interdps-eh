@@ -1,0 +1,5 @@
+.impcards{
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}.impcard{margin:20px;width:25%;border-radius:20px;color:#fff;font-weight:900;text-align:center;align-items:center;padding:20px;display:inline-block;flex:auto}.impcard h2{color:orange}.impcard:hover{background-color:#313131;color:#fff;transition:all .6s ease 0s}
